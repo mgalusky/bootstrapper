@@ -4,6 +4,10 @@
   height:75px;
   border:2px solid red;
   border-radius:12px;
+  text-align: center;
+  line-height: 75px;
+  padding: 15px;
+  font-size: 20px;
 }
 
 /* A handful of background colors for differentiating columns */
